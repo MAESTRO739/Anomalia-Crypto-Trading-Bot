@@ -1,0 +1,21 @@
+{
+    "en": {
+        "profile": "💼 Profile",    
+        "settings": "⚙️ Settings",
+        "buy_crypto": "📗 Buy cryptocurrency",
+        "sell_crypto": "📕 Sell cryptocurrency",
+        "about": "ℹ️ About us",
+        "support": "🧑🏻‍💻 Support service"
+    },
+    "ru": {
+        "profile": "💼 Личный кабинет",    
+        "settings": "⚙️ Настройки",
+        "buy_crypto": "📗 Купить криптовалюту",
+        "sell_crypto": "📕 Продать криптовалюту",
+        "about": "ℹ️ О нас",
+        "support": "🧑🏻‍💻 Служба поддержки"
+    }
+}
+
+
+    
